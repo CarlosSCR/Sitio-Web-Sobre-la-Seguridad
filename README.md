@@ -25,3 +25,5 @@ Sugiere el uso de una red privada virtual (VPN).
 Destaca la importancia de realizar copias de seguridad regularmente.
 Recomienda educar a familiares y amigos sobre la protección contra el malware.
 Cada uno de estos HTML ofrece una guía práctica y accesible para mejorar la seguridad en línea, abordando diferentes aspectos de protección cibernética. La combinación de medidas preventivas, como la actualización de software, contraseñas seguras y la educación sobre amenazas potenciales, es fundamental para garantizar una experiencia segura y protegida en internet
+
+file:///C:/Jose%20L/Sitio%20Web%20Sobre%20la%20Seguridad/proteccion-contrasenas.html
